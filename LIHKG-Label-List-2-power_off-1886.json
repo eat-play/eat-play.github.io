@@ -1,6 +1,6 @@
 {
-   "name":"OFF囝高汁LIST (3人)",
-   "version":"20210522-203117",
+   "name":"OFF囝高汁LIST (4人)",
+   "version":"20210522-210240",
    "homepage":"https://docs.google.com/spreadsheets/d/1bz9klvGSoiX_oK-i9PM1m1aMBTc8bukQI30NWQcx13Y/edit#gid=622165363",
    "color":"#ffff00",
    "data":{
@@ -25,6 +25,14 @@
             "text":"高汁巴",
             "reason":"經常開高汁 POST，思維清晰。",
             "url":"https://lih.kg/2541577",
+            "date":1621728000000
+         }
+      ],
+      "52779":[
+         {
+            "text":"積極關注抗爭者",
+            "reason":"積極關注抗爭人士。",
+            "url":"https://lih.kg/2541707",
             "date":1621728000000
          }
       ]
